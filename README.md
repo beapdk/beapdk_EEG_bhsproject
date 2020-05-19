@@ -3,7 +3,7 @@ EEG processing project tbd
 
 ## Summary
 
-TBD : This project will focus on exploring links between brain oscillations and ADHD symptoms, using resting-state EEG data. The objective aply and make good use of the tools presented throughout this course.
+TBD : This project will focus on exploring links between brain oscillations and ADHD symptoms, using resting-state EEG data. The objectives are to apply and make good use of the tools presented throughout this course.
 
 ## Project definition 
 
