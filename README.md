@@ -15,10 +15,10 @@ This project will aim to investigate the possible associations between different
 The sample consisted of 93 college students with an ADHD condition. Different types of measurements are included in this data sample. EEG data recording was performed using a 32-channel electrode cap and consisted of eyes-opened at-rest recording of 5-minute duration. Time-frequency analyses were conducted for each electrode in order to extract amplitude means for each frequency band. Neuropsychological assessment measures included were Conners questionnaire (self-report), WAIS-IV working memory subscale and IVA-II behavioral test.
 
 ### Tools 
- * [Markdown](https://guides.github.com/features/mastering-markdown/), to structure the text.
+
  * Git and GitHub
  * Jupyter Notebook
- * Python : main packages : pandas, SNFpy based of previous [Markdown] (https://github.com/rmarkello/snfpy)
+ * Python : main packages : pandas, SNFpy based of previous [markdown](https://github.com/rmarkello/snfpy)
 
 
 ### Deliverables
